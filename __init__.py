@@ -8,6 +8,10 @@ class CommunismAdvisor(MycroftSkill):
     @intent_file_handler('advisor.communism.intent')
     def handle_advisor_communism(self, message):
         self.speak_dialog('advisor.communism')
+    
+    @intent_file_handler('advisor.communismManifesto.intent')
+    def handle_advisor_communism(self, message):
+        self.speak_dialog('advisor.communismManifesto')
 
 
 def create_skill():

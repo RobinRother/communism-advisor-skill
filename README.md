@@ -5,8 +5,6 @@ Advice user on communism
 User can ask questions about communism and influential characters associated with it
 
 ## Examples
-* "What do you think about state and capital"
-* "Tell me something about communism"
 * "What did the marx say"
 * "Open communism-advisor"
 * "Initiate communism"
@@ -21,5 +19,4 @@ Entertainment
 ## Tags
 #Communism
 #Marx
-#Anarchism
 
