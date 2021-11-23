@@ -7,7 +7,6 @@ User can ask questions about communism and influential characters associated wit
 ## Examples
 * "What do you think about state and capital"
 * "Tell me something about communism"
-* "Tell me something about capitalism"
 * "What did the marx say"
 * "Open communism-advisor"
 * "Initiate communism"
